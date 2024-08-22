@@ -1,0 +1,3 @@
+[submodule "c-rewrite"]
+	path = c-rewrite
+	url = https://github.com/zakmoCA/pokercalc-c-rewrite.git
